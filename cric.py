@@ -11,7 +11,7 @@ a=[]
 teamscore=[]
 Wickets=[]
 for i in runs:
-    if('Runs Scored' in i.text):
+    if('Runs Scored HAHA' in i.text):
         s=i.text
         s=s.split('\n')
         s=s[0]
